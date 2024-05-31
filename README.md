@@ -80,6 +80,8 @@ Help your colleagues at the museum to gain insights on the fossil record data. I
 4. Did dinosaurs get bigger over time? Show the relation between the dinosaur length and their age to illustrate this.
 5. Use the AI assitant to create an interactive map showing each record. 
 6. Any other insights you found during your analysis?
+
+
 # 2️⃣ Part 2 (SQL) - Understanding movie data 🎥 
 
 ## 📖 Background
@@ -126,7 +128,6 @@ Help your team leader understand the data that's available in the _cinema.films_
 
 ## 🧑‍⚖️ Judging criteria  
 <p>&nbsp;</p>
-<p><strong>Public Upvotes</strong> - The top 100 most upvoted entries will be judged according to the criteria below. Entries in position 101 or below will not proceed to the next stage. Only votes made by accounts registered before voting opens will count towards final decisions.</p>
 
 | CATEGORY | WEIGHTING | DETAILS                                                              |
 |:---------|:----------|:---------------------------------------------------------------------|
