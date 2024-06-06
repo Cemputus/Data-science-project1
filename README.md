@@ -1,12 +1,8 @@
 
 # Data-science-project
-# Everyone Can Learn Data Scholarship
-## 📖 Background
-The second "Everyone Can Learn Data" Scholarship from DataCamp is now open for entries. 
 
-The challenges below test your coding skills you gained from beginner courses on either Python, R, or SQL. Pair them **with the help of AI** and your **creative thinking skills** and win **$5,000** for your future data science studies!
+The challenges below test your coding skills you gained from beginner courses on either Python, R, or SQL. Pair them **with the help of AI** and your **creative thinking skills**.
 
-The scholarship is open to secondary and undergraduate students, and other students preparing for graduate-level studies (getting their Bachelor degree). Postgraduate students (PhDs) or graduated students (Master degree) cannot apply. 
 
 The challenge consist of two parts, make sure to complete both parts before submitting.
 
@@ -24,13 +20,6 @@ Try running the Python cell below:
 # Run this cell to see the result (click on Run on the right, or Ctrl|CMD + Enter)
 100 * 1.75 * 20
 ```
-Modify any of the numbers and rerun the cell. 
-
-You can add a Markdown, Python|R, or SQL cell by clicking on the **Add Markdown**, **Add Code**, and **Add SQL** buttons that appear as you move the mouse pointer near the bottom of any cell. 
-
-🤖 You can also make use of our AI assistent, by asking it what you want to do. See it in action [here](https://www.datacamp.com/blog/data-to-insights-datcamp-workspace-ai-assistant).
-
-Here at DataCamp, we call our interactive notebook **Workspace**. You can find out more about Workspace [here](https://workspace-docs.datacamp.com/).
 
 # 1️⃣ Part 1 (Python) - Dinosaur data 🦕
 
@@ -126,7 +115,7 @@ Help your team leader understand the data that's available in the _cinema.films_
 
 
 
-## 🧑‍⚖️ Judging criteria  
+## 🧑‍⚖️ criteria  
 <p>&nbsp;</p>
 
 | CATEGORY | WEIGHTING | DETAILS                                                              |
@@ -135,5 +124,4 @@ Help your team leader understand the data that's available in the _cinema.films_
 | **Storytelling**  | 20%       | <ul><li>How well the response is connected to the original data. </li><li>How the narrative and whole response connects together.</li><li>The report contains sufficient depth but is also concise.</li><li>How the response flows from one point to the next. </ul> |
 | **Presentation** | 15% | <ul><li>How legible/understandable the response is.</li><li>How well-formatted the response is.</li><li>Spelling and grammar.</li></ul> |
 
-In the event of a tie, user XP may be used as a tie-breaker. 
 
