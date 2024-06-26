@@ -4,7 +4,6 @@
 The challenges below test your coding skills you gained from beginner courses on either Python, R, or SQL. Pair them **with the help of AI** and your **creative thinking skills**.
 
 
-The challenge consist of two parts, make sure to complete both parts before submitting.
 
 ## ℹ️ Introduction to Data Science Notebooks
 
@@ -118,10 +117,5 @@ Help your team leader understand the data that's available in the _cinema.films_
 ## 🧑‍⚖️ criteria  
 <p>&nbsp;</p>
 
-| CATEGORY | WEIGHTING | DETAILS                                                              |
-|:---------|:----------|:---------------------------------------------------------------------|
-| **Response quality** | 65%       | <ul><li> Accuracy (20%) - The response must be representative of the original data and free from errors.</li><li> Clarity (20%) - The response must be easy to understand and clearly expressed.</li><li> Completeness (15%) - The response must be a full report that responds to the question posed.</li><li> Insights (10%) - The response must contain some insights based on the data using your own judgment and interpretation.</li></ul>       |
-| **Storytelling**  | 20%       | <ul><li>How well the response is connected to the original data. </li><li>How the narrative and whole response connects together.</li><li>The report contains sufficient depth but is also concise.</li><li>How the response flows from one point to the next. </ul> |
-| **Presentation** | 15% | <ul><li>How legible/understandable the response is.</li><li>How well-formatted the response is.</li><li>Spelling and grammar.</li></ul> |
 
 
